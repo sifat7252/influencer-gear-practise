@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}
+.nav-title{
+    color: #3a3a3a;
+    font-size: 24px;
+    font-weight: 700;
+}
+.nav-menus>ul{
+    display: flex;
+    list-style: none;
+    
+}
+.nav-menus li {
+    margin-right: 20px;
+    color: #3A3A3A;
+    font-size: 16px;
+    font-weight: 600;
+
+}
+.nav-menus a{
+    text-decoration: none;
+}
+/* banner section started here */
+.banner-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
