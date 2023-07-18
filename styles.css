@@ -38,3 +38,29 @@ nav{
     align-items: center;
 
 }
+.banner-title{
+    color: #3A3A3A;
+    font-family: Poppins;
+    font-size: 52px;
+    font-weight: 700;
+    /* margin-top: 5px; */
+    margin-bottom: 20px;
+}
+.banner-description{
+    color: #3A3A3A;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 600;
+
+}
+.btn-primary{
+    color: #fff;
+    display: inline-flex;
+    padding: 10px 24px;
+    align-items: flex-start;
+    gap: 8px;
+    border-radius: 41px;
+    background: #E02C6D;
+    margin-top: 20px;
+}
+
